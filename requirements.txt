@@ -1,0 +1,7 @@
+nltk == 3.5
+numpy == 1.19.0
+python == 3.6
+scipy ==1.4.1
+tensorflow ==1.14.0
+tflearn ==0.3.2
+tensorboard =1.14.0
